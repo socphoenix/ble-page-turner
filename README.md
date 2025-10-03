@@ -7,4 +7,4 @@ Most page turners come in large form factors that are fantastic for pianists and
 ![EE6370D1-9DFB-41BE-A061-27B61A423291](https://github.com/user-attachments/assets/97e21357-96d2-4fa1-8989-afed2234111f)
 
 
-This project relys on [T-vK's bleKeyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard), with an additional fix that hasn't been committed to master. To access this fix please see [pull request 343](https://github.com/T-vK/ESP32-BLE-Keyboard/pull/343), or I have a fork of this commit [here](https://github.com/socphoenix/ESP32-BLE-Keyboard). Many thanks to [Trident Apollo](https://github.com/TriDEntApollO) for the fix of the library!
+This project relies on [T-vK's bleKeyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard), with an additional fix that hasn't been committed to master. To access this fix please see [pull request 343](https://github.com/T-vK/ESP32-BLE-Keyboard/pull/343), or I have a fork of this commit [here](https://github.com/socphoenix/ESP32-BLE-Keyboard). Many thanks to [Trident Apollo](https://github.com/TriDEntApollO) for the fix of the library!
